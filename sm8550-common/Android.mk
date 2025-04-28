@@ -6,4 +6,3 @@ LOCAL_PATH := $(call my-dir)
 
 ifneq ($(filter fuxi nuwa ishtar vermeer,$(TARGET_DEVICE)),)
 
-endif
